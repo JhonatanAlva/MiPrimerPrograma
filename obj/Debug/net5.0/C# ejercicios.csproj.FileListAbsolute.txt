@@ -1,0 +1,16 @@
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\bin\Debug\net5.0\C# ejercicios.exe
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\bin\Debug\net5.0\C# ejercicios.deps.json
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\bin\Debug\net5.0\C# ejercicios.runtimeconfig.json
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\bin\Debug\net5.0\C# ejercicios.runtimeconfig.dev.json
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\bin\Debug\net5.0\C# ejercicios.dll
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\bin\Debug\net5.0\ref\C# ejercicios.dll
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\bin\Debug\net5.0\C# ejercicios.pdb
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\obj\Debug\net5.0\C# ejercicios.csproj.AssemblyReference.cache
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\obj\Debug\net5.0\C# ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\obj\Debug\net5.0\C# ejercicios.AssemblyInfoInputs.cache
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\obj\Debug\net5.0\C# ejercicios.AssemblyInfo.cs
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\obj\Debug\net5.0\C# ejercicios.csproj.CoreCompileInputs.cache
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\obj\Debug\net5.0\C# ejercicios.dll
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\obj\Debug\net5.0\ref\C# ejercicios.dll
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\obj\Debug\net5.0\C# ejercicios.pdb
+E:\Universidad\Tercer Semestre\Programación 1\C# ejercicios\obj\Debug\net5.0\C# ejercicios.genruntimeconfig.cache
